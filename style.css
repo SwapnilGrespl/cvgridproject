@@ -30,7 +30,7 @@ P{
     background: #FFFFFF;
     position: relative;
     display: grid;
-    grid-template-rows: 630px  auto;
+    grid-template-rows: 630px  ;
     grid-template-columns: 430px  260px  320px;
 }
 #one {
@@ -103,12 +103,13 @@ P{
     color: #717886;
     font-weight: 400;
 }
+
 .three .pain_Point h2{
     margin-top: -5px;
 }
 .four{
     margin-left: 65px;
-    width: 40vw;
+    width: 900px;
  margin-top: 10px;
 }
 #four{
@@ -118,6 +119,7 @@ P{
 }
 .personalityDivone{
     width: 230px;
+    
 }
 .personalityinfo{
     display: flex;
